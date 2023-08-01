@@ -41,6 +41,14 @@ cd SeoSearchApp/backend
 dotnet restore
 ```
 
+4. Install the .NET dependencies:
+
+```bash
+cd WebScrapperAPI
+dotnet ef database update
+```
+dotnet ef database update
+
 ### Running the Application
 
 1. Start the Angular frontend:
@@ -93,5 +101,10 @@ The backend server should now be running on `http://localhost:7244/`.
 ## Contributing
 
 If you'd like to contribute to this project, feel free to create a pull request or open an issue.
+
+## More to Add
+
+If I have more time I would add more search engines to the project, and the challenge would be to skip the policy page and loop through the result pages (like is already done with Bing).
+I would add a service, maybe an AI to dynamically update the CSS selectors of different Search engines pages.
 
 ---
