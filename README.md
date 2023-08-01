@@ -106,5 +106,6 @@ If you'd like to contribute to this project, feel free to create a pull request 
 
 If I have more time I would add more search engines to the project, and the challenge would be to skip the policy page and loop through the result pages (like is already done with Bing).
 I would add a service, maybe an AI to dynamically update the CSS selectors of different Search engines pages.
+I would add unit and integration tests.
 
 ---
