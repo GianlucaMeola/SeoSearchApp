@@ -87,7 +87,7 @@ The backend server should now be running on `http://localhost:7244/`.
 - Angular 16: Frontend framework
 - .NET 6: Backend runtime environment
 - C# and Entity Framework: Backend development and database management
-- MongoDB: Database for storing search results
+- SQL: Database for storing search results
 - Material UI: Styling and UI components
 
 ## Contributing
